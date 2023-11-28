@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ac86e330-0175-49ce-8c27-faa08d7e00f6" name="Changes" comment="" />
+=======
+    <list default="true" id="b8bc352b-0bc6-4dd8-b498-3a1ea4c66ff7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+>>>>>>> 023501c84649814addc555919ba75a0afd718125
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -24,6 +31,12 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2Ykiw0cIWceHwdnwERLedP4N6yI" />
+=======
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2YkjIAWETAhPvRIwTKnNPE6hCBE" />
+>>>>>>> 023501c84649814addc555919ba75a0afd718125
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
@@ -51,12 +65,18 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+=======
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+>>>>>>> 023501c84649814addc555919ba75a0afd718125
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="ac86e330-0175-49ce-8c27-faa08d7e00f6" name="Changes" comment="" />
       <created>1701076214443</created>
       <option name="number" value="Default" />
@@ -77,4 +97,15 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
   </component>
+=======
+      <changelist id="b8bc352b-0bc6-4dd8-b498-3a1ea4c66ff7" name="Changes" comment="" />
+      <created>1701076389571</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701076389571</updated>
+      <workItem from="1701076390703" duration="1000" />
+    </task>
+    <servers />
+  </component>
+>>>>>>> 023501c84649814addc555919ba75a0afd718125
 </project>
